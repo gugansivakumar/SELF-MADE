@@ -1,0 +1,108 @@
+.image18Icon,
+.productSHP2116249689634231Icon,
+.productST1316290259355271Icon,
+.productsST4811Icon {
+  position: absolute;
+  top: 74px;
+  left: 56px;
+  border-radius: var(--br-sm);
+  width: 231.79px;
+  height: 229px;
+  object-fit: cover;
+}
+.image18Icon,
+.productSHP2116249689634231Icon,
+.productST1316290259355271Icon {
+  left: 399px;
+  width: 232px;
+}
+.image18Icon,
+.productSHP2116249689634231Icon {
+  top: 357px;
+  left: 56px;
+  width: 220px;
+}
+.productSHP2116249689634231Icon {
+  left: 399px;
+}
+.sportsWearsDiv {
+  position: absolute;
+  top: 15px;
+  left: 254px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  display: inline-block;
+}
+.productsJOGP2111Icon {
+  position: absolute;
+  top: 656px;
+  left: 56px;
+  border-radius: var(--br-sm);
+  width: 220px;
+  height: 229px;
+  object-fit: cover;
+}
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleDiv2 {
+  position: absolute;
+  top: 303px;
+  left: 293px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 105px;
+  height: 39px;
+}
+.rectangleDiv1,
+.rectangleDiv2 {
+  top: 856px;
+}
+.rectangleDiv2 {
+  top: 586px;
+}
+.joggersDiv,
+.shortsDiv,
+.tshirtsDiv {
+  position: absolute;
+  top: 309px;
+  left: 315px;
+  display: inline-block;
+}
+.joggersDiv,
+.shortsDiv {
+  top: 863px;
+  left: 311px;
+}
+.shortsDiv {
+  top: 588px;
+  left: 319px;
+}
+.imageRemovebgPreview83,
+.productsJOGP10111Icon {
+  position: absolute;
+  top: 656px;
+  left: 399px;
+  border-radius: var(--br-sm);
+  width: 220px;
+  height: 229px;
+  object-fit: cover;
+}
+.imageRemovebgPreview83 {
+  top: 11px;
+  left: 10px;
+  border-radius: var(--br-md);
+  width: 30px;
+  height: 27px;
+  cursor: pointer;
+}
+.frameDiv {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 944px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}

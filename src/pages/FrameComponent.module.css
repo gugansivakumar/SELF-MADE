@@ -1,0 +1,201 @@
+.image6Icon {
+  position: absolute;
+  top: 67px;
+  left: 48px;
+  border-radius: var(--br-sm);
+  width: 232px;
+  height: 202px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 292px;
+  left: 112px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 105px;
+  height: 39px;
+}
+.jeansI {
+  position: absolute;
+  top: 303px;
+  left: 123px;
+  display: inline-block;
+  font-weight: 500;
+  width: 83px;
+  height: 17px;
+}
+.image7Icon {
+  position: absolute;
+  top: 67px;
+  left: 418px;
+  border-radius: var(--br-sm);
+  width: 229px;
+  height: 202px;
+  object-fit: cover;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 298px;
+  left: 482px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 105px;
+  height: 39px;
+}
+.shirtsP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.shirts {
+  position: absolute;
+  top: 308px;
+  left: 489px;
+  display: inline-block;
+  font-weight: 500;
+  width: 90px;
+  height: 30px;
+}
+.image8Icon {
+  position: absolute;
+  top: 377px;
+  left: 48px;
+  border-radius: var(--br-sm);
+  width: 232px;
+  height: 189px;
+  object-fit: cover;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 573px;
+  left: 107px;
+  border-radius: var(--br-md);
+  width: 105px;
+  height: 39px;
+}
+.tShirts {
+  position: absolute;
+  top: 585px;
+  left: 103px;
+  display: inline-block;
+  font-weight: 500;
+  width: 112px;
+  height: 30px;
+}
+.image9Icon {
+  position: absolute;
+  top: 377px;
+  left: 418px;
+  border-radius: var(--br-sm);
+  width: 229px;
+  height: 189px;
+  object-fit: cover;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 573px;
+  left: 486.29px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 110px;
+  height: 42px;
+  transform: rotate(0.39deg);
+  transform-origin: 0 0;
+}
+.innerWears {
+  position: absolute;
+  top: 583px;
+  left: 480px;
+  display: inline-block;
+  font-weight: 900;
+  width: 123px;
+  height: 30px;
+}
+.image10Icon {
+  position: absolute;
+  top: 650.2px;
+  left: 46.2px;
+  border-radius: var(--br-sm);
+  width: 233.19px;
+  height: 200.86px;
+  object-fit: cover;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 871px;
+  left: 88px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 118px;
+  height: 39px;
+}
+.footWearsI {
+  position: absolute;
+  top: 882px;
+  left: 96px;
+  display: inline-block;
+  font-weight: 500;
+  width: 102px;
+  height: 18px;
+}
+.image11Icon {
+  position: absolute;
+  top: 649px;
+  left: 418px;
+  border-radius: var(--br-sm);
+  width: 229px;
+  height: 200px;
+  object-fit: cover;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 871px;
+  left: 482px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 105px;
+  height: 39px;
+}
+.menSWear,
+.shortsI {
+  position: absolute;
+  display: inline-block;
+}
+.shortsI {
+  top: 882px;
+  left: 470px;
+  font-weight: 500;
+  width: 133px;
+  height: 25px;
+}
+.menSWear {
+  top: -8px;
+  left: 267px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-baloo-bhaina-2);
+  color: var(--color-white);
+  width: 185px;
+  height: 37px;
+}
+.imageRemovebgPreview82 {
+  position: absolute;
+  top: 11.44px;
+  left: 16.4px;
+  border-radius: var(--br-md);
+  width: 26.34px;
+  height: 23.04px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frameDiv {
+  position: relative;
+  border-radius: var(--br-xs);
+  background-color: var(--color-black);
+  width: 100%;
+  height: 944px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

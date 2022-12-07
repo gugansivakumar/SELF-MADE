@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;1,500;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jacques+Francois:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-baloo-bhaina-2: "Baloo Bhaina 2";
+  --font-inter: Inter;
+  --font-jacques-francois: "Jacques Francois";
+  --font-koh-santepheap: "Koh Santepheap";
+
+  /* font sizes */
+  --font-size-2xs: 14px;
+  --font-size-xs: 16px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 24px;
+  --font-size-xl: 25px;
+  --font-size-2xl: 32px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray-100: #d9d9d9;
+  --color-brown-100: #a30505;
+  --color-brown-200: #6b0a0a;
+
+  /* border radiuses */
+  --br-xs: 20px;
+  --br-sm: 25px;
+  --br-md: 90px;
+  --br-lg: 160px;
+}

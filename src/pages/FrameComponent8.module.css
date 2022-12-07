@@ -1,0 +1,169 @@
+.image12Icon,
+.image13Icon,
+.image14Icon,
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  position: absolute;
+  top: 94px;
+  left: 36px;
+  border-radius: var(--br-sm);
+  width: 232px;
+  height: 202px;
+  object-fit: cover;
+}
+.image13Icon,
+.image14Icon,
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  left: 397px;
+}
+.image14Icon,
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  top: 387px;
+  left: 36px;
+  height: 187px;
+}
+.image15Icon,
+.image16Icon,
+.image17Icon {
+  left: 397px;
+}
+.image16Icon,
+.image17Icon {
+  top: 665px;
+  left: 36px;
+  width: 253.32px;
+  height: 202px;
+}
+.image17Icon {
+  left: 397px;
+  width: 232px;
+}
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleIcon {
+  position: absolute;
+  top: 321px;
+  left: 101px;
+  border-radius: var(--br-md);
+  width: 105px;
+  height: 39px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  top: 603px;
+  left: 102px;
+  background-color: var(--color-gray-100);
+}
+.rectangleDiv1 {
+  top: 322px;
+  left: 446px;
+  width: 134px;
+}
+.kURTADiv,
+.nIGHTWEARDiv {
+  position: absolute;
+  top: 331px;
+  left: 122px;
+  display: inline-block;
+}
+.nIGHTWEARDiv {
+  top: 334px;
+  left: 462px;
+  font-size: var(--font-size-2xs);
+  width: 126px;
+  height: 17px;
+}
+.rectangleIcon1 {
+  position: absolute;
+  top: 881px;
+  left: 111px;
+  border-radius: var(--br-md);
+  width: 105px;
+  height: 39px;
+}
+.fOOTWEARDiv,
+.tSHIRTSDiv {
+  position: absolute;
+  display: inline-block;
+}
+.fOOTWEARDiv {
+  top: 892px;
+  left: 116px;
+  font-size: var(--font-size-2xs);
+}
+.tSHIRTSDiv {
+  top: 612px;
+  left: 113px;
+}
+.rectangleIcon2 {
+  position: absolute;
+  top: 605px;
+  left: 461px;
+  border-radius: var(--br-md);
+  width: 105px;
+  height: 39px;
+}
+.cOORDSDiv {
+  position: absolute;
+  top: 617px;
+  left: 475px;
+  text-align: center;
+  display: inline-block;
+  width: 76px;
+}
+.rectangleIcon3 {
+  position: absolute;
+  top: 881px;
+  left: 461px;
+  border-radius: var(--br-md);
+  width: 105px;
+  height: 39px;
+}
+.kURTIDiv {
+  position: absolute;
+  top: 890px;
+  left: 484px;
+  display: inline-block;
+}
+.womensWearP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.womensWearDiv {
+  position: absolute;
+  top: 0;
+  left: 242px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-baloo-bhaina-2);
+  color: var(--color-white);
+  display: inline-block;
+  width: 204px;
+  height: 84px;
+}
+.imageRemovebgPreview83 {
+  position: absolute;
+  top: 5px;
+  left: 12px;
+  border-radius: var(--br-md);
+  width: 30px;
+  height: 27px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frameDiv {
+  position: relative;
+  border-radius: var(--br-xs);
+  background-color: #0c0b0b;
+  width: 100%;
+  height: 944px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}

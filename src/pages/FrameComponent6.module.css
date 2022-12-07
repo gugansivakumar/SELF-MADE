@@ -1,0 +1,170 @@
+.image4Icon {
+  position: absolute;
+  top: 522px;
+  left: 724px;
+  border-radius: var(--br-sm);
+  width: 324px;
+  height: 199px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.imageRemovebgPreview21,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-xs);
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1264px;
+  height: 193.8px;
+}
+.imageRemovebgPreview21 {
+  top: 20.4px;
+  left: 60.12px;
+  width: 350.56px;
+  height: 167.12px;
+  object-fit: cover;
+  opacity: 0.9;
+}
+.frameDiv2,
+.groupDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62.22px;
+  height: 47.15px;
+}
+.frameDiv2 {
+  width: 38px;
+  height: 37px;
+  overflow: auto;
+}
+.frameDiv1,
+.imageRemovebgPreview41 {
+  position: absolute;
+  top: 86px;
+  left: 988.68px;
+  border-radius: var(--br-xs);
+  width: 24.64px;
+  height: 29.08px;
+}
+.imageRemovebgPreview41 {
+  top: 65.28px;
+  left: 1046.01px;
+  width: 62.28px;
+  height: 71.4px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frameIcon,
+.imageRemovebgPreview31 {
+  position: absolute;
+  top: 522px;
+  left: 196.35px;
+  border-radius: var(--br-xs);
+  width: 388.05px;
+  height: 210px;
+}
+.imageRemovebgPreview31 {
+  top: 188px;
+  left: 366.41px;
+  width: 549.61px;
+  height: 295px;
+  object-fit: cover;
+}
+.sELFMADESPORTSWEAR1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.sELFMADESPORTSWEAR {
+  position: absolute;
+  top: 937px;
+  left: 732.81px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.2em;
+  line-height: 30px;
+  display: inline-block;
+  width: 531.19px;
+  height: 67px;
+}
+.span {
+  letter-spacing: 0.06em;
+}
+.boostYourTrainingWithSelfm {
+  position: absolute;
+  top: 1034px;
+  left: 724.63px;
+  line-height: 30px;
+  text-align: justify;
+  display: inline-block;
+  width: 480.16px;
+  height: 41.54px;
+}
+.rectangleIcon,
+.rectangleIcon1 {
+  position: absolute;
+  top: 1202px;
+  left: 765.56px;
+  border-radius: var(--br-xs);
+  width: 102.59px;
+  height: 65.28px;
+  cursor: pointer;
+}
+.rectangleIcon1 {
+  left: 944.67px;
+  width: 196.01px;
+}
+.menDiv,
+.womenDiv {
+  position: absolute;
+  top: 1219px;
+  left: 799px;
+  line-height: 30px;
+  display: inline-block;
+  width: 64px;
+  height: 31px;
+}
+.womenDiv {
+  left: 998px;
+  width: 101px;
+  height: 48px;
+}
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1264px;
+  height: 1267.28px;
+}
+.forBothMenAndWomen {
+  position: absolute;
+  top: 1064px;
+  left: 897px;
+  line-height: 30px;
+  text-align: justify;
+  display: inline-block;
+  width: 437px;
+  height: 36px;
+}
+.image6Icon {
+  position: absolute;
+  top: 920px;
+  left: 50px;
+  border-radius: var(--br-sm);
+  width: 582px;
+  height: 598px;
+  object-fit: cover;
+}
+.frameDiv {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1593px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

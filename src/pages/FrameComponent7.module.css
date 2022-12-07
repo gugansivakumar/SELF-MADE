@@ -1,0 +1,221 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.materialSymbolssearchDiv {
+  position: absolute;
+  top: 0;
+  left: 1197px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.image4Button {
+  position: absolute;
+  top: 522px;
+  left: 724px;
+  cursor: pointer;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1192.11px;
+  height: 143.63px;
+}
+.imageRemovebgPreview21 {
+  position: absolute;
+  top: 15.12px;
+  left: 56.47px;
+  border-radius: var(--br-sm);
+  width: 331.08px;
+  height: 125.93px;
+  object-fit: cover;
+  opacity: 0.9;
+}
+.frameDiv4,
+.image1Icon {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-sm);
+}
+.image1Icon {
+  left: 0;
+  width: 27px;
+  height: 24px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.frameDiv4 {
+  left: 0.32px;
+  width: 31px;
+  height: 31px;
+  cursor: pointer;
+}
+.frameDiv2,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 62.22px;
+  height: 47.15px;
+}
+.frameDiv2 {
+  width: 38px;
+  height: 37px;
+  overflow: auto;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 63.74px;
+  left: 932.45px;
+  border-radius: var(--br-sm);
+  width: 23.24px;
+  height: 21.55px;
+}
+.frameIcon,
+.image5Icon {
+  position: absolute;
+  top: 522px;
+  left: 185px;
+  width: 385px;
+  height: 210px;
+}
+.image5Icon {
+  top: 949px;
+  left: 72px;
+  border-radius: var(--br-sm);
+  width: 549px;
+  height: 575px;
+  object-fit: cover;
+}
+.sELFMADESPORTSWEAR1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.sELFMADESPORTSWEAR {
+  position: absolute;
+  top: 1139.3px;
+  left: 696.02px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.2em;
+  line-height: 30px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 500.97px;
+  height: 49.66px;
+}
+.span {
+  letter-spacing: 0.06em;
+}
+.boostYourTrainingWithSelfm {
+  position: absolute;
+  top: 1236.64px;
+  left: 691.31px;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: justify;
+  display: inline-block;
+  width: 452.7px;
+  height: 106px;
+}
+.rectangleButton,
+.rectangleIcon {
+  position: absolute;
+  top: 1342.64px;
+  left: 721.49px;
+  border-radius: var(--br-sm);
+  width: 96.75px;
+  height: 48.38px;
+  cursor: pointer;
+}
+.rectangleButton {
+  border: 0;
+  padding: 0;
+  background-color: var(--color-brown-200);
+  left: 898.8px;
+  width: 184.86px;
+}
+.menDiv,
+.womenDiv {
+  position: absolute;
+  top: 1355.62px;
+  left: 758.27px;
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 60.36px;
+  height: 22.98px;
+}
+.womenDiv {
+  top: 1349.13px;
+  left: 944.07px;
+  width: 95.26px;
+  height: 35.57px;
+}
+.groupForm,
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1197px;
+  height: 1524px;
+  opacity: 1;
+}
+.groupForm.animate {
+  animation: 1s ease 0s 1 normal forwards scale-up;
+}
+.rectangleDiv1 {
+  top: 245px;
+  left: 551px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-100);
+  width: 90px;
+  height: 94px;
+  opacity: 0.9;
+}
+.vectorIcon {
+  position: absolute;
+  height: 3.77%;
+  width: 4.13%;
+  top: 16.45%;
+  right: 49.64%;
+  bottom: 79.79%;
+  left: 46.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.searchDiv {
+  position: absolute;
+  top: 292px;
+  left: 484px;
+  line-height: 30px;
+  display: inline-block;
+  width: 134px;
+  height: 38px;
+  opacity: 0;
+}
+.frameDiv {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1593px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

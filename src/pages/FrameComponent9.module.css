@@ -1,0 +1,149 @@
+.screenshot202211252124041Icon,
+.screenshot202211252129551Icon {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 421px;
+  height: 635px;
+  object-fit: cover;
+}
+.screenshot202211252129551Icon {
+  top: 141px;
+  left: 427px;
+  width: 275px;
+  height: 62.5px;
+}
+.signUp {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.signUpDiv,
+.userNameDiv {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.signUpDiv {
+  top: 230px;
+  left: 427px;
+  font-size: var(--font-size-lg);
+  width: 297px;
+  height: 39px;
+}
+.userNameDiv {
+  top: 292px;
+  left: 439px;
+  width: 106px;
+  height: 33px;
+}
+.rectangleDiv,
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 328px;
+  left: 483px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 219px;
+  height: 34px;
+}
+.rectangleDiv1,
+.rectangleDiv2,
+.rectangleDiv3 {
+  top: 413px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  top: 514px;
+}
+.rectangleDiv3 {
+  top: 598px;
+}
+.groupDiv,
+.rectangleDiv4 {
+  position: absolute;
+  width: 111px;
+  height: 34px;
+}
+.rectangleDiv4 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-brown-100);
+}
+.groupDiv {
+  top: 687px;
+  left: 537px;
+  cursor: pointer;
+}
+.eMailDiv,
+.signInDiv {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.eMailDiv {
+  top: 380px;
+  left: 439px;
+  width: 216px;
+  height: 38px;
+}
+.signInDiv {
+  top: 691px;
+  left: 561px;
+}
+.lineIcon {
+  position: absolute;
+  top: 752px;
+  left: 482.99px;
+  width: 220.08px;
+  height: 2.16px;
+}
+.imageRemovebgPreview81 {
+  border-radius: var(--br-md);
+  object-fit: cover;
+}
+.frameDiv1,
+.frameDiv2,
+.imageRemovebgPreview81 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 32px;
+}
+.frameDiv1 {
+  top: 23px;
+  left: 13px;
+  border-radius: var(--br-md);
+  cursor: pointer;
+}
+.createPasswordDiv,
+.phoneDiv {
+  position: absolute;
+  top: 465px;
+  left: 439px;
+  line-height: 30px;
+  display: inline-block;
+  width: 87px;
+  height: 26px;
+}
+.createPasswordDiv {
+  top: 552px;
+  left: 448px;
+  width: 177px;
+  height: 28px;
+}
+.frameDiv {
+  position: relative;
+  border-radius: var(--br-xs);
+  background-color: var(--color-black);
+  width: 100%;
+  height: 939px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,43 @@
+.imageRemovebgPreview41 {
+  position: absolute;
+  top: 134px;
+  left: 1972px;
+  border-radius: var(--br-sm);
+  width: 264px;
+  height: 184px;
+  object-fit: cover;
+}
+.noItemsSelected {
+  position: absolute;
+  top: 928px;
+  left: 181px;
+  line-height: 30px;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1963px;
+  height: 330px;
+}
+.imageRemovebgPreview101 {
+  position: absolute;
+  top: 109px;
+  left: 115px;
+  border-radius: var(--br-md);
+  width: 216px;
+  height: 233px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frameDiv {
+  position: relative;
+  border-radius: 50px;
+  background-color: #716b6b;
+  width: 100%;
+  height: 2186px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 100px;
+  color: var(--color-black);
+  font-family: var(--font-koh-santepheap);
+}

@@ -1,0 +1,130 @@
+.screenshot202211252124041Icon,
+.screenshot202211252129551Icon {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 421px;
+  height: 635px;
+  object-fit: cover;
+}
+.screenshot202211252129551Icon {
+  top: 161px;
+  left: 421px;
+  width: 275px;
+  height: 62.5px;
+}
+.loginToYour {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.loginToYourExistingAccount,
+.userIDDiv {
+  position: absolute;
+  top: 246px;
+  left: 439px;
+  line-height: 30px;
+  display: inline-block;
+  width: 297px;
+  height: 39px;
+}
+.userIDDiv {
+  top: 325px;
+  left: 450px;
+  width: 87px;
+  height: 33px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 381px;
+  left: 466px;
+  border-radius: var(--br-md);
+  background-color: var(--color-gray-100);
+  width: 219px;
+  height: 34px;
+}
+.rectangleDiv1 {
+  top: 502px;
+}
+.groupDiv,
+.rectangleDiv2 {
+  position: absolute;
+  width: 111px;
+  height: 34px;
+}
+.rectangleDiv2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-brown-100);
+}
+.groupDiv {
+  top: 575px;
+  left: 512px;
+  cursor: pointer;
+}
+.lOGINDiv,
+.passwordDiv {
+  position: absolute;
+  line-height: 30px;
+  display: inline-block;
+}
+.passwordDiv {
+  top: 441px;
+  left: 445px;
+  width: 216px;
+  height: 38px;
+}
+.lOGINDiv {
+  top: 579px;
+  left: 537px;
+}
+.lineIcon {
+  position: absolute;
+  top: 655px;
+  left: 457.99px;
+  width: 220.08px;
+  height: 2.16px;
+}
+.orCreateNewAccount {
+  position: absolute;
+  top: 704px;
+  left: 466px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  width: 244px;
+  height: 77px;
+  cursor: pointer;
+}
+.imageRemovebgPreview81 {
+  border-radius: var(--br-md);
+  object-fit: cover;
+}
+.frameDiv1,
+.frameDiv2,
+.imageRemovebgPreview81 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 32px;
+}
+.frameDiv1 {
+  top: 23px;
+  left: 13px;
+  border-radius: var(--br-md);
+  cursor: pointer;
+}
+.frameDiv {
+  position: relative;
+  border-radius: var(--br-xs);
+  background-color: var(--color-black);
+  width: 100%;
+  height: 939px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
